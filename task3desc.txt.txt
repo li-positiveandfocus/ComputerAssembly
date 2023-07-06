@@ -1,0 +1,14 @@
+Run I/O
+Hello World!
+
+-- program is finished running --
+
+Mars Messages
+Assemble: assembling C:\Users\linji\Documents\2022_CCSF_ComputerAssembly\1.23 Lab Assignment\task3MIPSassemblylanguageprogram.s
+
+Assemble: operation completed successfully.
+
+Go: running task3MIPSassemblylanguageprogram.s
+
+
+Go: execution completed successfully.
